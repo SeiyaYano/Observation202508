@@ -1,3 +1,6 @@
+# DOWNLOAD
+git clone https://github.com/SeiyaYano/Observation202508.git
+
 # FILFES & DATA
     readme
     demo.ipynb
